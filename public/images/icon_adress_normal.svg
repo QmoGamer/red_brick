@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="29px" viewBox="0 0 20 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_adress_normal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="紅磚屋_UI-KIT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-KIT" transform="translate(-519.000000, -691.000000)" fill="#B62805">
+            <path d="M529,706.858824 C525.692,706.858824 523,704.198494 523,700.929412 C523,697.660329 525.692,695 529,695 C532.308,695 535,697.660329 535,700.929412 C535,704.198494 532.308,706.858824 529,706.858824 M536.072364,693.894548 C534.183359,692.027767 531.672353,691 529.001347,691 C526.32934,691 523.818334,692.027767 521.929329,693.894548 C518.43432,697.348439 517.999319,703.847091 520.988327,707.78423 L529.001347,719.219129 L537.001366,707.800042 C540.002374,703.847091 539.568373,697.348439 536.072364,693.894548" id="icon_adress_normal"></path>
+        </g>
+    </g>
+</svg>

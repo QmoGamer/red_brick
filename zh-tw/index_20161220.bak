@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+	<?php include 'define.php'; ?>
+	<!-- head -->
+	<?php 
+		$title = HOME_WEB_TITLE; 
+		include 'head.php'; 
+	?>
+
+	<body>
+
+		<!-- header -->
+		<?php 
+			$header_bg_type = HOME_MAIN_TITLE;
+			// $m_header_bg = array( FOODS_M_TOP_BG, ABOUT_US_M_TOP_BG, NEWS_M_TOP_BG );
+			$header_bg = array( '../public/banner/Banners_01.jpg', '../public/banner/Banners_02.jpg', '../public/banner/Banners_03.jpg', '../public/banner/Banners_04.jpg', '../public/banner/Banners_05.jpg' );
+			$header_bg_height = '650px';
+			include 'header.php';
+		?>
+
+		<!-- body -->
+		<main>
+			<div class="home">
+				<!-- main title -->
+				<?php
+					$main_title = HOME_MAIN_TITLE;
+					include 'main_title.php';
+				?>
+				<!-- container -->
+				<div class="container">
+					<div class="flex">
+						<div class="fb_fans">
+							<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2F%25E7%25B4%2585%25E7%25A3%259A%25E5%25B1%258B%25E7%2589%25B9%25E8%2589%25B2%25E6%25B0%2591%25E5%25AE%25BF-557971720914982%2F&tabs=timeline&width=300&height=600&small_header=false&adapt_container_width=false&hide_cover=false&show_facepile=true&appId" width="300" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+						</div>
+						<div class="news">
+							<div class="row type1">
+						  	<div class="news_media">
+						  		<?php echo NEWS_ROW_VIDEO; ?>
+						  	</div>
+						  	<div class="news_bg">
+						  		<div class="news_title_icon"><img width="30px" src="<?php echo NEWS_ROW_TITLE_ICON; ?>" /></div>
+							  	<div class="news_title" onclick="showDialog(1)"><?php echo HOME_ROW_TITLE_1; ?></div>
+							  	<div class="news_text"><?php echo HOME_ROW_TEXT_1; ?></div>
+							  	<div class="news_date">2016-11-11</div>
+							  	<div class="news_arrow"><img src="<?php echo NEWS_ROW_ARROW_ICON; ?>"></div>
+						  	</div>
+						  </div>
+						  <div class="row type2">
+						  	<div class="news_media">
+						  		<img src="<?php echo NEWS_ROW_IMG; ?>" />
+						  	</div>
+						  	<div class="news_bg">
+							  	<div class="news_title_icon"><img width="30px" src="<?php echo NEWS_ROW_TITLE_ICON; ?>" /></div>
+							  	<div class="news_title" onclick="showDialog(2)"><?php echo HOME_ROW_TITLE_2; ?></div>
+							  	<div class="news_text"><?php echo HOME_ROW_TEXT_2; ?></div>
+							  	<div class="news_date">2016-11-11</div>
+							  	<div class="news_arrow"><img src="<?php echo NEWS_ROW_ARROW_ICON; ?>"></div>
+						  	</div>
+						  </div>
+						  <div class="row type1">
+						  	<div class="news_media">
+						  		<a href="a.pdf" target="_blank">
+						  			<img src="<?php echo NEWS_ROW_IMG; ?>" />
+						  		</a>
+						  	</div>
+						  	<div class="news_bg">
+							  	<div class="news_title_icon"><img width="30px" src="<?php echo NEWS_ROW_TITLE_ICON; ?>" /></div>
+							  	<div class="news_title" onclick="showDialog(3)"><?php echo HOME_ROW_TITLE_3; ?></div>
+							  	<div class="news_text"><?php echo HOME_ROW_TEXT_3; ?></div>
+							  	<div class="news_date">2016-11-11</div>
+							  	<div class="news_arrow"><img src="<?php echo NEWS_ROW_ARROW_ICON; ?>"></div>
+						  	</div>
+						  </div>
+						  <a href="news.php" class="btn_more">
+						  	<img src="<?php echo HOME_BTN_MORE_ICON; ?>" />
+						  	<?php echo HOME_BTN_MORE_TEXT; ?>
+						  </a>
+						</div>
+					</div>
+				</div>
+				<div id="news_detail" class="modal fade" role="dialog">
+				</div>
+			</div>
+		</main>
+
+		<!-- footer -->
+		<?php include 'footer.php'; ?>
+
+		<!-- custom javascript -->
+    <script type="text/javascript">
+    // 	function showDialog(id) {
+    // 		$('#news_detail').data('id', id).modal('show');
+    // 	}
+
+	   //  $(function(){
+	   //  	$('#news_detail').on('show.bs.modal', function () {
+	   //  		console.log($(this).data('id'));
+				//   $(this).load('news_detail.php', {'id': '1'});
+				// });
+	   //  })
+    </script>
+	</body>
+</html>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="17px" viewBox="0 0 12 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>btn_footer_map</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="紅磚屋_UI-KIT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-KIT" transform="translate(-80.000000, -753.000000)" fill="#000000">
+            <path d="M86,762.515294 C84.0152,762.515294 82.4,760.919096 82.4,758.957647 C82.4,756.996198 84.0152,755.4 86,755.4 C87.9848,755.4 89.6,756.996198 89.6,758.957647 C89.6,760.919096 87.9848,762.515294 86,762.515294 M90.2434185,754.736729 C89.1100157,753.61666 87.6034119,753 86.0008079,753 C84.3976039,753 82.8910002,753.61666 81.7575973,754.736729 C79.6605921,756.809064 79.3995915,760.708255 81.1929959,763.070538 L86.0008079,769.931478 L90.8008199,763.080025 C92.6014244,760.708255 92.3410237,756.809064 90.2434185,754.736729" id="btn_footer_map"></path>
+        </g>
+    </g>
+</svg>

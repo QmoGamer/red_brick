@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>btn_pic_right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="紅磚屋_UI-KIT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.65">
+        <g id="UI-KIT" transform="translate(-303.000000, -611.000000)" fill="#FFFFFF">
+            <path d="M328,661 C341.807119,661 353,649.807119 353,636 C353,622.192881 341.807119,611 328,611 C314.192881,611 303,622.192881 303,636 C303,649.807119 314.192881,661 328,661 Z M321.112069,619.362069 C320.87069,619.12069 320.568966,619 320.237069,619 C319.905172,619 319.603448,619.12069 319.362069,619.362069 C318.87931,619.844828 318.87931,620.62931 319.362069,621.112069 L334.75,636.5 L319.362069,651.887931 C318.87931,652.37069 318.87931,653.155172 319.362069,653.637931 C319.844828,654.12069 320.62931,654.12069 321.112069,653.637931 L337.405172,637.375 C337.887931,636.892241 337.887931,636.107759 337.405172,635.625 L321.112069,619.362069 Z" id="btn_pic_right"></path>
+        </g>
+    </g>
+</svg>

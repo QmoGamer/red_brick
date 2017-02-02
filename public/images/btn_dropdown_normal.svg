@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="19px" height="10px" viewBox="0 0 19 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>btn_dropdown_normal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="紅磚屋_UI-KIT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-KIT" transform="translate(-411.000000, -634.000000)" fill="#323232">
+            <path d="M416.450161,629.868167 C416.321543,629.73955 416.160772,629.675241 415.983923,629.675241 C415.807074,629.675241 415.646302,629.73955 415.517685,629.868167 C415.26045,630.125402 415.26045,630.543408 415.517685,630.800643 L423.717042,639 L415.517685,647.199357 C415.26045,647.456592 415.26045,647.874598 415.517685,648.131833 C415.77492,648.389068 416.192926,648.389068 416.450161,648.131833 L425.131833,639.466238 C425.389068,639.209003 425.389068,638.790997 425.131833,638.533762 L416.450161,629.868167 Z" id="btn_dropdown_normal" transform="translate(420.324759, 639.000000) rotate(-270.000000) translate(-420.324759, -639.000000) "></path>
+        </g>
+    </g>
+</svg>

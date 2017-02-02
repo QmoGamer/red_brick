@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="3px" viewBox="0 0 20 3" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>btn_menubar_close01</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="紅磚屋_UI-KIT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-KIT" transform="translate(-118.000000, -592.000000)" fill="#B62805">
+            <path d="M126,592 L138,592 L138,594.884615 L126,594.884615 L126,592 Z M118,592 L124,592 L124,594.884615 L118,594.884615 L118,592 Z" id="btn_menubar_close01"></path>
+        </g>
+    </g>
+</svg>
